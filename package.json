@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs-readdir-recursive": "^1.1.0",
+    "is-progressive-jpeg": "^1.0.0",
+    "sharp": "^0.27.2"
+  }
+}
